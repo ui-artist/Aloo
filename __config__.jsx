@@ -24,7 +24,7 @@ export const _HeroPara = "There's something I've been meaning to show you. Somet
 export const _MemoryGallerySpeed = 0.95
 export const _MemoryMessages = [
   {
-    title: "Happy Birthday Wen Yifan",
+    title: "Happy Birthday to you 🎉🎉🎉....",
     content:
       "Happy Birthday! 🎉 Wishing you a fantastic day,and I truly hope life continues to bring you happiness, success, and good health.",
   },
@@ -72,7 +72,7 @@ export const _ConfessButtons = [
 
 
 // u can put emojis in these 2
-export const _FinalText = "  still yours !! 🌸"
+export const _FinalText = "  i won't be showing my face anymore !! 😌"
 export const _FinalCompliment = "and as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
 export const _FinalGif = "crackers" // [flower, bear, cute, crackers]
 // the gifs are in /public
