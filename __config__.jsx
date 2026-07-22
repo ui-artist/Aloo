@@ -7,7 +7,7 @@
 // u can put emojis in any text, except the _ConfessFinalText
 
 // !!!!-- REPLACE THIS WITH UR REPO FIRST --!!!
-export const _REPO = "my-love"
+export const _REPO = "Aloo"
 
 export const _name = "Dear my love";   // tab/site name
 
