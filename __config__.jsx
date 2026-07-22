@@ -11,7 +11,7 @@ export const _REPO = "Aloo"
 
 export const _name = "Dear Tanu";   // tab/site name
 
-export const _dearName = "Oh Mi'cielo;  // name of the person u wanna gift to
+export const _dearName = "Oh Mi'cielo";  // name of the person u wanna gift to
 
 export const _bgEmoji = "🌸";   // shown as animated bg
 
