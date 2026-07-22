@@ -49,7 +49,7 @@ export const _MemoryMessages = [
       "You are the quiet verse my heart keeps writing every day; If love were a poem, every line would begin and end with you. ❤️",
   },
   {
-    title: "Some moments that can't be forgotten,
+    title: "Some moments that can't be forgotten",
     content:
       "That one time we slept while on video call.I just remember your cute sleeping face.",
   },
@@ -72,7 +72,7 @@ export const _ConfessButtons = [
 
 
 // u can put emojis in these 2
-export const _FinalText = "don't worry it's ok .but hath mt katna !! 😭"
+export const _FinalText = "don't worry it's ok .Live to the fullest !! 🌸"
 export const _FinalCompliment = "as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
 export const _FinalGif = "cute" // [flower, bear, cute, crackers]
 // the gifs are in /public
