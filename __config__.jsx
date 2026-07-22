@@ -9,70 +9,70 @@
 // !!!!-- REPLACE THIS WITH UR REPO FIRST --!!!
 export const _REPO = "Aloo"
 
-export const _name = "Dear my love";   // tab/site name
+export const _name = "Dear Tanu";   // tab/site name
 
-export const _dearName = "My Love";  // name of the person u wanna gift to
+export const _dearName = "Oh Mi'cielo;  // name of the person u wanna gift to
 
 export const _bgEmoji = "🌸";   // shown as animated bg
 
 export const _themeColor = "#b06080" // use a lighter color, cz the colors are generated dimmed
 
-export const _HeroTitle = "Hey You.."
-export const _HeroPara = "There's something I've been meaning to show you. Something that lives in my chest every single day."
+export const _HeroTitle = "Hey Miss Pattagobi.."
+export const _HeroPara = "There's something I've been meaning to show you. Something that I have been working on for you."
 
 
 export const _MemoryGallerySpeed = 0.95
 export const _MemoryMessages = [
   {
-    title: `${_dearName}`,
+    title: "Happy Birthday yan yifan",
     content:
-      "I remember the exact moment I knew — not a grand gesture, just a quiet Tuesday, and you laughed at something small. And that was it. That was the beginning of everything.",
+      "Happy Birthday! 🎉 Wishing you a fantastic day,and I truly hope life continues to bring you happiness, success, and good health.",
   },
   {
-    title: "The Little Things",
+    title: "BE Happy , Mi'Lady",
     content:
-      "The way you hold your mug with both hands. How you get excited about clouds. The specific hum you do when you're thinking. I've catalogued all of it without even trying.",
+      "Tu khush rahe, bas itni si dua hai meri.Chahe meri kismat mein ab tera saath na ho.Teri hansi aaj bhi meri sabse khoobsurat yaad hai,Aur shayad isi liye tujhe bhoolna itna aasaan na ho. ❤️‍🩹",
   },
   {
-    title: "When You Were Sad",
+    title: "You are special....",
     content:
-      "I hated that I couldn't fix it. But I loved that you let me sit with you in it. That kind of trust — I don't take it lightly.",
+      "I've always admired something about you—not just your smile, but the way you carry yourself. You have this quiet strength, a deep sense of responsibility, and a determination to build your own path. Those qualities are rare, and they're part of what makes you so inspiring.",
   },
   {
-    title: "Every Ordinary Day",
+    title: "The days I miss alot...",
     content:
-      "Nothing special happened. We just existed in the same space. And somehow, those are the days I replay the most.",
+      "Nothing special happened. We just existed in the same space. And somehow, those are the days I replay the most.I miss those days",
   },
   {
-    title: "What I Never Said",
+    title: "you know what am i going to say",
     content:
-      "I wanted to say it a hundred times but the moment always felt too small or too big. So I saved it. For here. For now.",
+      "You are the quiet verse my heart keeps writing every day; If love were a poem, every line would begin and end with you. ❤️",
   },
   {
-    title: "Something Ridiculous",
+    title: "Some moments that can't be forgotten,
     content:
-      "That one time we laughed so hard neither of us could speak. I don't even remember what it was about. I just remember your face.",
+      "That one time we slept while on video call.I just remember your cute sleeping face.",
   },
   {
-    title: "Right Now",
+    title: "for now",
     content:
-      "You're reading this, and somehow that feels like the bravest thing I've ever done — handing you something real and watching you open it.",
+      "You're reading this, It makes me happy and worth all the effort.",
   },
 ]
 
 export const _ConfessRevealText = "So, will you...";  // the first text
-export const _ConfessFinalText = "be mine ?";  // the second text
+export const _ConfessFinalText = "wait.... ?";  // the second text
 export const _ConfessEmoji = "🥹"
 export const _ConfessButtons = [
-  { id: "btn_yes",   text: "Yes, always 💕",  clickable: true,  url: "/yes"   }, // dont change the url, unless u know what u are doing
-  { id: "btn_no",    text: "No way",           clickable: false, url: ""       },
+  { id: "btn_yes",   text: "Yes, ofc 💕",  clickable: true,  url: "/yes"   }, // dont change the url, unless u know what u are doing
+  { id: "btn_no",    text: "Nope ",           clickable: false, url: ""       },
   { id: "btn_maybe", text: "Maybe... 👀",      clickable: false, url: ""       },
 ];
 
 
 
 // u can put emojis in these 2
-export const _FinalText = "I knew It !! 😭"
-export const _FinalCompliment = "It's the happiest i have ever been !! ❤️‍🩹"
+export const _FinalText = "don't worry it's ok .but hath mt katna !! 😭"
+export const _FinalCompliment = "as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
 export const _FinalGif = "cute" // [flower, bear, cute, crackers]
 // the gifs are in /public
