@@ -24,7 +24,7 @@ export const _HeroPara = "There's something I've been meaning to show you. Somet
 export const _MemoryGallerySpeed = 0.95
 export const _MemoryMessages = [
   {
-    title: "Happy Birthday yan yifan",
+    title: "Happy Birthday Wen Yifan",
     content:
       "Happy Birthday! 🎉 Wishing you a fantastic day,and I truly hope life continues to bring you happiness, success, and good health.",
   },
@@ -61,7 +61,7 @@ export const _MemoryMessages = [
 ]
 
 export const _ConfessRevealText = "So, will you...";  // the first text
-export const _ConfessFinalText = "wait.... ?";  // the second text
+export const _ConfessFinalText = "accept the gift.... ?";  // the second text
 export const _ConfessEmoji = "🥹"
 export const _ConfessButtons = [
   { id: "btn_yes",   text: "Yes, ofc 💕",  clickable: true,  url: "/yes"   }, // dont change the url, unless u know what u are doing
@@ -72,7 +72,7 @@ export const _ConfessButtons = [
 
 
 // u can put emojis in these 2
-export const _FinalText = "don't worry it's ok .Live to the fullest !! 🌸"
-export const _FinalCompliment = "as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
-export const _FinalGif = "cute" // [flower, bear, cute, crackers]
+export const _FinalText = "  still yours !! 🌸"
+export const _FinalCompliment = "and as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
+export const _FinalGif = "crackers" // [flower, bear, cute, crackers]
 // the gifs are in /public
