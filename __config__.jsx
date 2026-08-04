@@ -26,25 +26,25 @@ export const _MemoryMessages = [
   {
     title: "Happy Birthday to you 🎉🎉🎉....",
     content:
-      "Happy Birthday! 🎉 Wishing you a fantastic day,and I truly hope life continues to bring you happiness, success, and good health.",
+      "🌙✨ Happy Birthday, my lovely love ❤️If life were a poem,you would be my favorite line—the one I’d read again and again,never wanting the story to end.May your days bloom like flowers,may your dreams dance beneath the stars,and may every little wish in your heartfind its way to you.On this beautiful day,I hope the world gives youthe same warmth and happinessthat your presence brings to mine. 🎂",
   },
   {
-    title: "BE Happy , Mi'Lady",
+    title: "My SpECIAL one.....🌹✨",
     content:
-      "Tu khush rahe, bas itni si dua hai meri.Chahe meri kismat mein ab tera saath na ho.Teri hansi aaj bhi meri sabse khoobsurat yaad hai,Aur shayad isi liye tujhe bhoolna itna aasaan na ho. ❤️‍🩹",
+      "Happy Birthday to someonewho makes ordinary moments feel magical.May your smile always shine,and may this new chapter of your lifebe filled with endless beautiful memories. ❤️‍🩹",
   },
   {
-    title: "You are special....",
+    title: "You are special....💖✨",
     content:
       "I've always admired something about you—not just your smile, but the way you carry yourself. You have this quiet strength, a deep sense of responsibility, and a determination to build your own path. Those qualities are rare, and they're part of what makes you so inspiring.",
   },
   {
-    title: "The days I miss alot...",
+    title: "Be selfish , atleast with me...",
     content:
-      "Nothing special happened. We just existed in the same space. And somehow, those are the days I replay the most.I miss those days",
+      "i know you are very selfless , ready to do anything for someoneelses happiness. but be selfish sometime around me . ",
   },
   {
-    title: "you know what am i going to say",
+    title: "you matter very much to me.....<3",
     content:
       "You are the quiet verse my heart keeps writing every day; If love were a poem, every line would begin and end with you. ❤️",
   },
@@ -56,12 +56,12 @@ export const _MemoryMessages = [
   {
     title: "for now",
     content:
-      "You're reading this, It makes me happy and worth all the effort.",
+      "tu sojaa , i love you mi lady.",
   },
 ]
 
-export const _ConfessRevealText = "So, will you...";  // the first text
-export const _ConfessFinalText = "accept the gift.... ?";  // the second text
+export const _ConfessRevealText = "So, can we ...";  // the first text
+export const _ConfessFinalText = "start again.... ?";  // the second text
 export const _ConfessEmoji = "🥹"
 export const _ConfessButtons = [
   { id: "btn_yes",   text: "Yes, ofc 💕",  clickable: true,  url: "/yes"   }, // dont change the url, unless u know what u are doing
@@ -72,7 +72,7 @@ export const _ConfessButtons = [
 
 
 // u can put emojis in these 2
-export const _FinalText = "  i won't be showing my face anymore don't expect that !! 😌"
+export const _FinalText = " oh my gracious lady ,i missed you alot   !! 😌"
 export const _FinalCompliment = "and as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
 export const _FinalGif = "crackers" // [flower, bear, cute, crackers]
 // the gifs are in /public
