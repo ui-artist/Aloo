@@ -72,7 +72,7 @@ export const _ConfessButtons = [
 
 
 // u can put emojis in these 2
-export const _FinalText = "  i won't be showing my face anymore !! 😌"
+export const _FinalText = "  i won't be showing my face anymore don't expect that !! 😌"
 export const _FinalCompliment = "and as i always say 'AISHITERU ,BEBE !! ❤️‍🩹"
 export const _FinalGif = "crackers" // [flower, bear, cute, crackers]
 // the gifs are in /public
